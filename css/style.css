@@ -697,3 +697,17 @@ header {
     text-align: center;
     color: #808080;
 }
+
+
+/*========================
+ Media Query for mobile
+ =========================*/
+
+@media (min-width: 320px) and (max-width: 576px) {
+    .fa-bars {
+        color: #fff;
+    }
+    .contact-form .form-control {
+        width: 100%;
+    }
+}
