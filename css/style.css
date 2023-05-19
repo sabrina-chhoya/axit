@@ -704,10 +704,29 @@ header {
  =========================*/
 
 @media (min-width: 320px) and (max-width: 576px) {
-    .fa-bars {
-        color: #fff;
-    }
-    .contact-form .form-control {
-        width: 100%;
-    }
+    .fa-bars {color: #fff;}
+    .contact-form .form-control {width: 100%;}
+    .banner{padding: 15% 0;padding-bottom: 7%;}   
+    .banner-img img{width: 36%;}
+    .banner h1{font-size: 1.3em;padding: 6% 0;}
+    .banner p {padding: 2% 2% 6% 1%;}
+    .form-header{padding: 4% 3%;}
+    .social-media-icons{text-align: center;}
+    .social-media-icons li .fa {font-size: 1.6em; margin: 2% 2%;}
+    .feature1 {padding: 5%;}
+    .tab-content{padding-top: 7%;}
+    .feature2{padding: 8% 0;}
+    .feature2 h3 {padding-top: 5%;}
+    .feature2 p {padding-right: 0%;}
+    .feature2 .border-line{margin: 5% 0;}
+    .feature2 .title-info h5{margin-top: 3%;}
+    .feature3{padding-top: 10%;padding-bottom: 10%;}
+    .feature3 p {padding-right: 0;}
+    .process {padding-top: 10%;padding-bottom: 8%;}
+    .process-head h1{font-size: 1.8em;}
+    .pricing{padding: 12% 0;}
+    .pricing-head{margin-top: 13%;padding-top: 0;}
+    .pricing-header h1{font-size: 1.8em;}
+    .pricing-header {margin-bottom: 0;}
+    .pricing-head h3{padding-top: 5%;}
 }
